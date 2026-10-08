@@ -1,5 +1,5 @@
 ---
-title: NPCs
+title: 2. NPCs
 draft: "false"
 tags:
 ---
