@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: kr4ndom.github.io/steinwald
+  baseUrl: kr4ndom.github.io/KlingenDesSteinwald
   ignorePatterns:
     - private
     - templates
