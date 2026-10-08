@@ -114,7 +114,7 @@ plugins:
     options:
       theme: its-theme
       variation: ttrpg-dnd
-      mode: both
+      mode: dark
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -203,7 +203,7 @@ plugins:
       position: left
       priority: 10
   - source: "@quartz-community/darkmode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 30
